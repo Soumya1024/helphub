@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build output
+target/
+out/
+
+# Logs
+*.log
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env & secrets
+*.env
+src/main/resources/application.properties
+src/main/resources/application-*.properties
